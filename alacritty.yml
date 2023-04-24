@@ -1,0 +1,13 @@
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+
+window:
+  decorations: none
+  startup_mode: maximized 
+  dynamic_title: true
+
+font:
+  normal:
+    family: Ubuntu Mono
+    style: Regular 
+  size: 10
